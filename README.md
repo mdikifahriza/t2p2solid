@@ -55,6 +55,3 @@ Aplikasi akan berjalan di `http://localhost:3000`
 
 Proyek ini dapat dengan mudah di-deploy ke [Vercel](https://vercel.com/) karena berbasis Next.js dan sudah sesuai standar EsLint.
 
-## Lisensi
-
-Lisensi proyek mengikuti [MIT License](LICENSE).
